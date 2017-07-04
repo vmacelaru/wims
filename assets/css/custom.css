@@ -1,0 +1,63 @@
+#im {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url("../img/mainpage.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#imwrapper {
+    width: 400px;
+    height: 400px;
+    margin: auto;
+}
+
+.howto-container {
+    width: 200px;
+    height: 120px;
+    margin: auto;
+}
+
+.howto-img-a {
+    position: absolute;
+    top: 0;
+    left: 25%;
+    right: 0;
+    bottom: 0;
+    background-image: url("../img/ahowto.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.howto-img-k {
+    position: absolute;
+    top: 0;
+    left: 25%;
+    right: 0;
+    bottom: 0;
+    background-image: url("../img/khowto.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.howto-img-p {
+    position: absolute;
+    top: 0;
+    left: 25%;
+    right: 0;
+    bottom: 0;
+    background-image: url("../img/phowto.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.brand-wims {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+    margin-left: 16px;
+    letter-spacing: 12px;
+}
